@@ -1,4 +1,4 @@
-# README Generator
+# Dynamic README Generator.
 
 ## Table of Contents
 ### - [Description](#Description)
