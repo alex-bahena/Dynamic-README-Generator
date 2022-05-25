@@ -1,4 +1,4 @@
-# Dynamic README
+# 1
  ### MIT 
  ### ![GitHub license](https://img.shields.io/github/license/Naereen/StrapDown.js.svg)
  ### https://choosealicense.com/licenses/mit/
@@ -11,9 +11,9 @@
   - ## [Question](#questions)
   ## Installation:
   ### You must install the following for this app to function:
-  ### Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus quis turpis erat. Ut pretium eu nunc ac volutpat. In hac habitasse platea dictumst. Maecenas mollis turpis odio, sit amet condimentum tortor posuere eu. 
+  ### 1
   ## Usage:
-  ### Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus quis turpis erat. Ut pretium eu nunc ac volutpat. In hac habitasse platea dictumst. Maecenas mollis turpis odio, sit amet condimentum tortor posuere eu. 
+  ### 1
   ## License:
   ### MIT 
   ### Copyright (c) <year> <copyright holders>
@@ -37,9 +37,9 @@
     SOFTWARE.
     
   ## Collaborators:
-  ### Alejandro Bahena
+  ### Jorge Cardenas
   ## Tools:
-  ### ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+  ### ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
   ## Questions:
-  ### Github Profile: https://github.com/AlejandroBahSan
-  ### For aditional questions hmu via email: alejandro.bahsan@gmail.com
+  ### Github Profile: adsaadd
+  ### For aditional questions hmu via email: asdadasd
